@@ -10,5 +10,5 @@
  ## To Run the code : 
  1. Clone the Github repository in your computer. ```git clone https://github.com/VaibhavSrivastava-1110/Jovac-Project.git```
  2. Run the ``` datapreparation.ipynb``` file which will create two yaml files in the DataSets folder.
- 3. Run DataBaseSearch.ipynb file to search for movies titlws across the newly created data store.
+ 3. Run ```dataBaseSearch.ipynb``` file to search for movies titlws across the newly created data store.
  4. You are done...
